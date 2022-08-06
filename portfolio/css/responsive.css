@@ -1,0 +1,48 @@
+/***************** Iphone XR ******************/
+@media only screen and (max-width: 896px){
+	.ml-0{
+		margin-left: 0px !important;
+	}
+
+	/********************* Home ***********************/
+	.home {
+	    height: 58vh;
+	}
+ 	.home .home-left{
+		margin-top: 80px;
+	}
+	.home .home-content{
+		color: #fff;
+	}
+	.home .home-left .home-content .text-1{
+		font-size: 17px;
+	}
+	.home .home-left .home-content .text-2{
+		font-size: 65px;
+		font-weight: 600;
+		margin-left: -3px;
+	}
+	.home .home-left .home-content .text-3{
+		font-size: 30px;
+		margin: 5px 0;
+	}
+	.home .home-left .home-content .text-3 span{
+		color: #FF4433;	/*	Red Orange	*/
+		font-weight: 600;
+	}
+
+	/************************* about **********************/
+	.about-title h6:before{
+	    left: 28%;
+	    top: 73.5%;
+	}
+	.about-title h6:after{
+	    right: 28%;
+	    top: 73.5%;
+	}
+
+	.about-right{
+		margin-top: 15px !important;
+	}
+
+}
