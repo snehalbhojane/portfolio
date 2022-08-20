@@ -1,0 +1,62 @@
+/******************* Iphone SE *********************/
+@media only screen and (max-width: 768px) {
+	.ml-0{
+		margin-left: 0px;
+	}
+	.mobile-margin-top-20{
+		margin-top: 20px !important;
+	}
+	.home .home-right{
+		margin-top: 120px;
+	}
+	.home .home-right .home-content .text-3 {
+	    font-size: 34px;
+	}
+
+	.about-title h6:before{
+	    display: none;
+	}
+	.about-title h6:after{
+	    display: none;
+	}
+	.skills-section{
+		height: 100% !important;
+	}
+	.carousel-caption{
+		padding-bottom: 0rem !important;
+	}
+	.skills-right{
+		margin-top: 30px !important;
+	}
+	.blog-left {
+	    height: 250px !important;
+	}
+	.blog-right{
+		height: 250px !important;
+		margin-top: 30px !important;
+		border-left: none !important;
+	}
+	.w-20{
+		width: 20rem !important;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.ml-0{
+		margin-left: 0px;
+	}
+
+	.home .home-right{
+		margin-top: 250x;
+	}
+
+	.about-title h6:before{
+	    display: none;
+	}
+	.about-title h6:after{
+	    display: none;
+	}
+	.carousel-caption{
+		padding-bottom: 9rem !important;
+	}
+}
